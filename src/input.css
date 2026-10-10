@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import url('https://googleapis.com');
+
+@plugin "daisyui";
+
+@source "../**/*.php";
+
+
+
+@theme {
+  --font-fraunces: "Fraunces", serif;
+}
